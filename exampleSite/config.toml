@@ -1,7 +1,7 @@
 baseurl = "http://docs.greenbrick-media.com/"
 languageCode = "en-us"
 title = "Greenbrick Docs"
-theme = "hugo-material-docs"
+theme = "Greenbrick-docs"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
